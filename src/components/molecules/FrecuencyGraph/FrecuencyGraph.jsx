@@ -69,11 +69,31 @@ const FrecuencyGraph = () => {
                     optionsLine = {
 
                     {
+                        plugins: {
+                            title: {
+                                display: true,
+                                text: 'Respuesta en frecuencia',
+                                font:{
+                                    size:20
+                                },
+                                padding: {
+                                    top: 10,
+                                    bottom: 30}}},
                         scales:{
                             x:{
                                 type:"logarithmic",
-                            },        
-                        }
+                                min:20,
+                                BeginAtZero:false,
+                                title: {
+                                    display: true,
+                                    text: 'Frecuencia (Hz)'}
+                            } ,
+                            y:{
+                                title: {
+                                    display: true,
+                                    text: 'Magnitud (dB)'}
+                            } ,
+                        },
                     }}
                     dataLine = {finalData}
                     />

@@ -4,8 +4,23 @@ import { useItemContext } from "../../../context/appContext"
 import { dataMic } from "../../../data/micsData"
 import DropdownComponent from "../../atoms/DropDownComponent/DropdownComponent"
 const songsInfo = [
-    "Cancion 1 - guitarra",
-    "Cancion 2"
+  "Guitarra acústica (Cuerdas)",
+  "Ronroco (Cuerdas)",
+  "Charango (Cuerdas)",
+  "Chulis (Vientos)",
+  "Maltas (Vientos)",
+  "Quena (Vientos)",
+  "Quenacho (Vientos)",
+  "Toyos (Vientos)",
+  "Bastos (Vientos)",
+  "Bombo andino (Percusión)",
+  "Cajón peruano (Percusión)",
+  "Guacharaca (Percusión)",
+  "Jam Block (Percusión)",
+  "Semillas (Percusión)",
+  "Pista 1",
+  "Pista 2",
+  "Pista 3",
 ]
 
 export default function AudioMicOne() {
@@ -35,7 +50,7 @@ export default function AudioMicOne() {
           selectedItem={dropdownSong}
           setSelectedItem={handleChange1}
         />
-           {dropdownSong ?  <div style={{display:'flex',alignItems:'center', justifyContent:'center'}}> <AudioPlayer src={data[0]?.url}/></div> : <span style={{color:'#ffa31a'}}>Seleccione un tema</span>}
+           {dropdownSong ?  <div style={{display:'flex',alignItems:'center', justifyContent:'center'}}> <AudioPlayer src={data[0]?.url}/></div> : <span style={{color:'#ffa31a'}}>{`Seleccione una pista para el microfono: ${dataMic[dropdownItem1-1].Nombre}`}</span>}
         </> : <span style={{color:'#ffa31a'}}>Para continuar, seleccione el microfono 1</span>
     }
        

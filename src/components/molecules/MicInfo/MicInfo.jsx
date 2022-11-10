@@ -20,6 +20,7 @@ const itemsList = [
   "Sensibilidad",
   "MaxSPL",
   "SelfNoise",
+  "PatronPolar",
 ]
 
 
