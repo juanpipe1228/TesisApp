@@ -31,7 +31,7 @@ export default function DropdownComponent(props) {
         onChange={(value) => {
           handleFilter(value);
         }}
-        placeholder={selectedItem}
+        placeholder='Seleccione una de las opciones'
         onClick={() => setClassActive(!classActive)}
       ></input>
       <div className="option">

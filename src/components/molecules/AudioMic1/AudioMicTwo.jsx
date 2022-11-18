@@ -49,8 +49,8 @@ export default function AudioMicTwo() {
           selectedItem={dropdownSong}
           setSelectedItem={handleChange1}
         />
-           {dropdownSong ?  <div style={{display:'flex',alignItems:'center', justifyContent:'center'}}> <AudioPlayer src={data[0]?.url}/></div> : <span style={{color:'#ffa31a'}}>{`Seleccione una pista para el microfono: ${dataMic[dropdownItem2-1].Nombre}`}</span>}
-        </> : <span style={{color:'#ffa31a'}}>Para continuar, seleccione el microfono 2</span>
+           {dropdownSong ?  <div style={{display:'flex',alignItems:'center', justifyContent:'center'}}> <AudioPlayer src={data[0]?.url}/></div> : <span style={{color:'#ffa31a'}}>{`Seleccione una pista para el micrófono: ${dataMic[dropdownItem2-1].Nombre}`}</span>}
+        </> : <span style={{color:'#ffa31a'}}>Para continuar, seleccione el micrófono 2</span>
     }
        
      
