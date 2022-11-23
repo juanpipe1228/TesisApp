@@ -9,59 +9,59 @@ export const dataMic = [
     audios: [
       {
         name: "Guitarra acústica (Cuerdas)",
-        url: "url1",
+        url: "https://tesisv3.s3.amazonaws.com/PG81/guitarra-011.wav",
       },
       {
         name: "Ronroco (Cuerdas)",
-        url: "url2",
+        url: "https://tesisv3.s3.amazonaws.com/PG81/ronroco-011.wav",
       },
       {
         name: "Charango (Cuerdas)",
-        url: "url3",
+        url: "https://tesisv3.s3.amazonaws.com/PG81/charango-011.wav",
       },
       {
         name: "Chulis (Vientos)",
-        url: "url4",
+        url: "https://tesisv3.s3.amazonaws.com/PG81/chulis-011.wav",
       },
       {
         name: "Maltas (Vientos)",
-        url: "url5",
+        url: "https://tesisv3.s3.amazonaws.com/PG81/malta-011.wav",
       },
       {
         name: "Quena (Vientos)",
-        url: "url6",
+        url: "https://tesisv3.s3.amazonaws.com/PG81/quena-011.wav",
       },
       {
         name: "Quenacho (Vientos)",
-        url: "url7",
+        url: "https://tesisv3.s3.amazonaws.com/PG81/quenacho-011.wav",
       },
       {
         name: "Toyos (Vientos)",
-        url: "url8",
+        url: "https://tesisv3.s3.amazonaws.com/PG81/toyo-011.wav",
       },
       {
         name: "Bastos (Vientos)",
-        url: "url9",
+        url: "https://tesisv3.s3.amazonaws.com/PG81/bastos-011.wav",
       },
       {
         name: "Bombo andino (Percusión)",
-        url: "url10",
+        url: "https://tesisv3.s3.amazonaws.com/PG81/bombo-andino-pg81.wav",
       },
       {
         name: "Cajón peruano (Percusión)",
-        url: "url11",
+        url: "https://tesisv3.s3.amazonaws.com/PG81/cajonfla-011.wav",
       },
       {
         name: "Guacharaca (Percusión)",
-        url: "url12",
+        url: "https://tesisv3.s3.amazonaws.com/PG81/guacharaca-011.wav",
       },
       {
         name: "Jam Block (Percusión)",
-        url: "url13",
+        url: "https://tesisv3.s3.amazonaws.com/PG81/jamblock-011.wav",
       },
       {
         name: "Semillas (Percusión)",
-        url: "url14",
+        url: "https://tesisv3.s3.amazonaws.com/PG81/semillas-011.wav",
       },
       {
         name: "Pista 1",
@@ -87,59 +87,59 @@ export const dataMic = [
     audios: [
       {
         name: "Guitarra acústica (Cuerdas)",
-        url: "url1",
+        url: "https://tesisv3.s3.amazonaws.com/Beta87A/guitarra-007.wav",
       },
       {
         name: "Ronroco (Cuerdas)",
-        url: "url2",
+        url: "https://tesisv3.s3.amazonaws.com/Beta87A/ronroco-007.wav",
       },
       {
         name: "Charango (Cuerdas)",
-        url: "url3",
+        url: "https://tesisv3.s3.amazonaws.com/Beta87A/charango-007.wav",
       },
       {
         name: "Chulis (Vientos)",
-        url: "url4",
+        url: "https://tesisv3.s3.amazonaws.com/Beta87A/chulis-007.wav",
       },
       {
         name: "Maltas (Vientos)",
-        url: "url5",
+        url: "https://tesisv3.s3.amazonaws.com/Beta87A/malta-007.wav",
       },
       {
         name: "Quena (Vientos)",
-        url: "url6",
+        url: "https://tesisv3.s3.amazonaws.com/Beta87A/quena-007.wav",
       },
       {
         name: "Quenacho (Vientos)",
-        url: "url7",
+        url: "https://tesisv3.s3.amazonaws.com/Beta87A/quenacho-007.wav",
       },
       {
         name: "Toyos (Vientos)",
-        url: "url8",
+        url: "https://tesisv3.s3.amazonaws.com/Beta87A/toyo-007.wav",
       },
       {
         name: "Bastos (Vientos)",
-        url: "url9",
+        url: "https://tesisv3.s3.amazonaws.com/Beta87A/bastos-007.wav",
       },
       {
         name: "Bombo andino (Percusión)",
-        url: "url10",
+        url: "https://tesisv3.s3.amazonaws.com/Beta87A/bombo-andino-b87a.wav",
       },
       {
         name: "Cajón peruano (Percusión)",
-        url: "url11",
+        url: "https://tesisv3.s3.amazonaws.com/Beta87A/cajonfla-007.wav",
       },
       {
         name: "Guacharaca (Percusión)",
-        url: "url12",
+        url: "https://tesisv3.s3.amazonaws.com/Beta87A/guacharaca-007.wav",
       },
       {
         name: "Jam Block (Percusión)",
-        url: "url13",
+        url: "https://tesisv3.s3.amazonaws.com/Beta87A/jamblock-007.wav",
       },
       {
         name: "Semillas (Percusión)",
-        url: "url14",
+        url: "https://tesisv3.s3.amazonaws.com/Beta87A/semillas-007.wav",
       },
       {
         name: "Pista 1",
@@ -165,59 +165,59 @@ export const dataMic = [
     audios: [
       {
         name: "Guitarra acústica (Cuerdas)",
-        url: "url1",
+        url: "https://tesisv3.s3.amazonaws.com/guitarra-002.wav",
       },
       {
         name: "Ronroco (Cuerdas)",
-        url: "url2",
+        url: "https://tesisv3.s3.amazonaws.com/ronroco-002.wav",
       },
       {
         name: "Charango (Cuerdas)",
-        url: "url3",
+        url: "https://tesisv3.s3.amazonaws.com/charango-002.wav",
       },
       {
         name: "Chulis (Vientos)",
-        url: "url4",
+        url: "https://tesisv3.s3.amazonaws.com/chulis-002.wav",
       },
       {
         name: "Maltas (Vientos)",
-        url: "url5",
+        url: "https://tesisv3.s3.amazonaws.com/malta-002.wav",
       },
       {
         name: "Quena (Vientos)",
-        url: "url6",
+        url: "https://tesisv3.s3.amazonaws.com/quena-002.wav",
       },
       {
         name: "Quenacho (Vientos)",
-        url: "url7",
+        url: "https://tesisv3.s3.amazonaws.com/quenacho-002.wav",
       },
       {
         name: "Toyos (Vientos)",
-        url: "url8",
+        url: "https://tesisv3.s3.amazonaws.com/toyo-002.wav",
       },
       {
         name: "Bastos (Vientos)",
-        url: "url9",
+        url: "https://tesisv3.s3.amazonaws.com/bastos-002.wav",
       },
       {
         name: "Bombo andino (Percusión)",
-        url: "url10",
+        url: "https://tesisv3.s3.amazonaws.com/bombo-andino-4033.wav",
       },
       {
         name: "Cajón peruano (Percusión)",
-        url: "url11",
+        url: "https://tesisv3.s3.amazonaws.com/cajonfla-002.wav",
       },
       {
         name: "Guacharaca (Percusión)",
-        url: "url12",
+        url: "https://tesisv3.s3.amazonaws.com/guacharaca-002.wav",
       },
       {
         name: "Jam Block (Percusión)",
-        url: "url13",
+        url: "https://tesisv3.s3.amazonaws.com/jamblock-002.wav",
       },
       {
         name: "Semillas (Percusión)",
-        url: "url14",
+        url: "https://tesisv3.s3.amazonaws.com/semillas-002.wav",
       },
       {
         name: "Pista 1",
@@ -243,59 +243,59 @@ export const dataMic = [
     audios: [
       {
         name: "Guitarra acústica (Cuerdas)",
-        url: "url1",
+        url: "https://tesisv3.s3.amazonaws.com/AT4050/guitarra-003.wav",
       },
       {
         name: "Ronroco (Cuerdas)",
-        url: "url2",
+        url: "https://tesisv3.s3.amazonaws.com/AT4050/ronroco-003.wav",
       },
       {
         name: "Charango (Cuerdas)",
-        url: "url3",
+        url: "https://tesisv3.s3.amazonaws.com/AT4050/charango-003.wav",
       },
       {
         name: "Chulis (Vientos)",
-        url: "url4",
+        url: "https://tesisv3.s3.amazonaws.com/AT4050/chulis-003.wav",
       },
       {
         name: "Maltas (Vientos)",
-        url: "url5",
+        url: "https://tesisv3.s3.amazonaws.com/AT4050/malta-003.wav",
       },
       {
         name: "Quena (Vientos)",
-        url: "url6",
+        url: "https://tesisv3.s3.amazonaws.com/AT4050/quena-003.wav",
       },
       {
         name: "Quenacho (Vientos)",
-        url: "url7",
+        url: "https://tesisv3.s3.amazonaws.com/AT4050/quenacho-003.wav",
       },
       {
         name: "Toyos (Vientos)",
-        url: "url8",
+        url: "https://tesisv3.s3.amazonaws.com/AT4050/toyo-003.wav",
       },
       {
         name: "Bastos (Vientos)",
-        url: "url9",
+        url: "https://tesisv3.s3.amazonaws.com/AT4050/bastos-003.wav",
       },
       {
         name: "Bombo andino (Percusión)",
-        url: "url10",
+        url: "https://tesisv3.s3.amazonaws.com/AT4050/bombo-andino-4050.wav",
       },
       {
         name: "Cajón peruano (Percusión)",
-        url: "url11",
+        url: "https://tesisv3.s3.amazonaws.com/AT4050/cajonfla-003.wav",
       },
       {
         name: "Guacharaca (Percusión)",
-        url: "url12",
+        url: "https://tesisv3.s3.amazonaws.com/AT4050/guacharaca-003.wav",
       },
       {
         name: "Jam Block (Percusión)",
-        url: "url13",
+        url: "https://tesisv3.s3.amazonaws.com/AT4050/jamblock-003.wav",
       },
       {
         name: "Semillas (Percusión)",
-        url: "url14",
+        url: "https://tesisv3.s3.amazonaws.com/AT4050/semillas-003.wav",
       },
       {
         name: "Pista 1",
@@ -321,59 +321,59 @@ export const dataMic = [
     audios: [
       {
         name: "Guitarra acústica (Cuerdas)",
-        url: "url1",
+        url: "https://tesisv3.s3.amazonaws.com/AT4060/guitarra-006.wav",
       },
       {
         name: "Ronroco (Cuerdas)",
-        url: "url2",
+        url: "https://tesisv3.s3.amazonaws.com/AT4060/ronroco-006.wav",
       },
       {
         name: "Charango (Cuerdas)",
-        url: "url3",
+        url: "https://tesisv3.s3.amazonaws.com/AT4060/charango-006.wav",
       },
       {
         name: "Chulis (Vientos)",
-        url: "url4",
+        url: "https://tesisv3.s3.amazonaws.com/AT4060/chulis-006.wav",
       },
       {
         name: "Maltas (Vientos)",
-        url: "url5",
+        url: "https://tesisv3.s3.amazonaws.com/AT4060/malta-006.wav",
       },
       {
         name: "Quena (Vientos)",
-        url: "url6",
+        url: "https://tesisv3.s3.amazonaws.com/AT4060/quena-006.wav",
       },
       {
         name: "Quenacho (Vientos)",
-        url: "url7",
+        url: "https://tesisv3.s3.amazonaws.com/AT4060/quenacho-006.wav",
       },
       {
         name: "Toyos (Vientos)",
-        url: "url8",
+        url: "https://tesisv3.s3.amazonaws.com/AT4060/toyo-006.wav",
       },
       {
         name: "Bastos (Vientos)",
-        url: "url9",
+        url: "https://tesisv3.s3.amazonaws.com/AT4060/bastos-006.wav",
       },
       {
         name: "Bombo andino (Percusión)",
-        url: "url10",
+        url: "https://tesisv3.s3.amazonaws.com/AT4060/bombo-andino-4060.wav",
       },
       {
         name: "Cajón peruano (Percusión)",
-        url: "url11",
+        url: "https://tesisv3.s3.amazonaws.com/AT4060/cajonfla-006.wav",
       },
       {
         name: "Guacharaca (Percusión)",
-        url: "url12",
+        url: "https://tesisv3.s3.amazonaws.com/AT4060/guacharaca-006.wav",
       },
       {
         name: "Jam Block (Percusión)",
-        url: "url13",
+        url: "https://tesisv3.s3.amazonaws.com/AT4060/jamblock-006.wav",
       },
       {
         name: "Semillas (Percusión)",
-        url: "url14",
+        url: "https://tesisv3.s3.amazonaws.com/AT4060/semillas-006.wav",
       },
       {
         name: "Pista 1",
@@ -399,59 +399,59 @@ export const dataMic = [
     audios: [
       {
         name: "Guitarra acústica (Cuerdas)",
-        url: "url1",
+        url: "https://tesisv3.s3.amazonaws.com/AT-AE3000/guitarra-004.wav",
       },
       {
         name: "Ronroco (Cuerdas)",
-        url: "url2",
+        url: "https://tesisv3.s3.amazonaws.com/AT-AE3000/ronroco-004.wav",
       },
       {
         name: "Charango (Cuerdas)",
-        url: "url3",
+        url: "https://tesisv3.s3.amazonaws.com/AT-AE3000/charango-004.wav",
       },
       {
         name: "Chulis (Vientos)",
-        url: "url4",
+        url: "https://tesisv3.s3.amazonaws.com/AT-AE3000/chulis-004.wav",
       },
       {
         name: "Maltas (Vientos)",
-        url: "url5",
+        url: "https://tesisv3.s3.amazonaws.com/AT-AE3000/malta-004.wav",
       },
       {
         name: "Quena (Vientos)",
-        url: "url6",
+        url: "https://tesisv3.s3.amazonaws.com/AT-AE3000/quena-004.wav",
       },
       {
         name: "Quenacho (Vientos)",
-        url: "url7",
+        url: "https://tesisv3.s3.amazonaws.com/AT-AE3000/quenacho-004.wav",
       },
       {
         name: "Toyos (Vientos)",
-        url: "url8",
+        url: "https://tesisv3.s3.amazonaws.com/AT-AE3000/toyo-004.wav",
       },
       {
         name: "Bastos (Vientos)",
-        url: "url9",
+        url: "https://tesisv3.s3.amazonaws.com/AT-AE3000/bastos-004.wav",
       },
       {
         name: "Bombo andino (Percusión)",
-        url: "url10",
+        url: "https://tesisv3.s3.amazonaws.com/AT-AE3000/bombo-andino-AE3000.wav",
       },
       {
         name: "Cajón peruano (Percusión)",
-        url: "url11",
+        url: "https://tesisv3.s3.amazonaws.com/AT-AE3000/cajonfla-004.wav",
       },
       {
         name: "Guacharaca (Percusión)",
-        url: "url12",
+        url: "https://tesisv3.s3.amazonaws.com/AT-AE3000/guacharaca-004.wav",
       },
       {
         name: "Jam Block (Percusión)",
-        url: "url13",
+        url: "https://tesisv3.s3.amazonaws.com/AT-AE3000/jamblock-004.wav",
       },
       {
         name: "Semillas (Percusión)",
-        url: "url14",
+        url: "https://tesisv3.s3.amazonaws.com/AT-AE3000/semillas-004.wav",
       },
       {
         name: "Pista 1",
@@ -477,59 +477,59 @@ export const dataMic = [
     audios: [
       {
         name: "Guitarra acústica (Cuerdas)",
-        url: "url1",
+        url: "https://tesisv3.s3.amazonaws.com/AKG-C414/guitarra-005.wav",
       },
       {
         name: "Ronroco (Cuerdas)",
-        url: "url2",
+        url: "https://tesisv3.s3.amazonaws.com/AKG-C414/ronroco-005.wav",
       },
       {
         name: "Charango (Cuerdas)",
-        url: "url3",
+        url: "https://tesisv3.s3.amazonaws.com/AKG-C414/charango-005.wav",
       },
       {
         name: "Chulis (Vientos)",
-        url: "url4",
+        url: "https://tesisv3.s3.amazonaws.com/AKG-C414/chulis-005.wav",
       },
       {
         name: "Maltas (Vientos)",
-        url: "url5",
+        url: "https://tesisv3.s3.amazonaws.com/AKG-C414/malta-005.wav",
       },
       {
         name: "Quena (Vientos)",
-        url: "url6",
+        url: "https://tesisv3.s3.amazonaws.com/AKG-C414/quena-005.wav",
       },
       {
         name: "Quenacho (Vientos)",
-        url: "url7",
+        url: "https://tesisv3.s3.amazonaws.com/AKG-C414/quenacho-005.wav",
       },
       {
         name: "Toyos (Vientos)",
-        url: "url8",
+        url: "https://tesisv3.s3.amazonaws.com/AKG-C414/toyo-005.wav",
       },
       {
         name: "Bastos (Vientos)",
-        url: "url9",
+        url: "https://tesisv3.s3.amazonaws.com/AKG-C414/bastos-005.wav",
       },
       {
         name: "Bombo andino (Percusión)",
-        url: "url10",
+        url: "https://tesisv3.s3.amazonaws.com/AKG-C414/bombo-andino-c414.wav",
       },
       {
         name: "Cajón peruano (Percusión)",
-        url: "url11",
+        url: "https://tesisv3.s3.amazonaws.com/AKG-C414/cajonfla-005.wav",
       },
       {
         name: "Guacharaca (Percusión)",
-        url: "url12",
+        url: "https://tesisv3.s3.amazonaws.com/AKG-C414/guacharaca-005.wav",
       },
       {
         name: "Jam Block (Percusión)",
-        url: "url13",
+        url: "https://tesisv3.s3.amazonaws.com/AKG-C414/jamblock-005.wav",
       },
       {
         name: "Semillas (Percusión)",
-        url: "url14",
+        url: "https://tesisv3.s3.amazonaws.com/AKG-C414/semillas-005.wav",
       },
       {
         name: "Pista 1",
@@ -555,59 +555,59 @@ export const dataMic = [
     audios: [
       {
         name: "Guitarra acústica (Cuerdas)",
-        url: "url1",
+        url: "https://tesisv3.s3.amazonaws.com/AKG-C414/guitarra-005.wav",
       },
       {
         name: "Ronroco (Cuerdas)",
-        url: "url2",
+        url: "https://tesisv3.s3.amazonaws.com/AKG-C414/ronroco-005.wav",
       },
       {
         name: "Charango (Cuerdas)",
-        url: "url3",
+        url: "https://tesisv3.s3.amazonaws.com/AKG-C414/charango-005.wav",
       },
       {
         name: "Chulis (Vientos)",
-        url: "url4",
+        url: "https://tesisv3.s3.amazonaws.com/AKG-C414/chulis-005.wav",
       },
       {
         name: "Maltas (Vientos)",
-        url: "url5",
+        url: "https://tesisv3.s3.amazonaws.com/AKG-C414/malta-005.wav",
       },
       {
         name: "Quena (Vientos)",
-        url: "url6",
+        url: "https://tesisv3.s3.amazonaws.com/AKG-C414/quena-005.wav",
       },
       {
         name: "Quenacho (Vientos)",
-        url: "url7",
+        url: "https://tesisv3.s3.amazonaws.com/AKG-C414/quenacho-005.wav",
       },
       {
         name: "Toyos (Vientos)",
-        url: "url8",
+        url: "https://tesisv3.s3.amazonaws.com/AKG-C414/toyo-005.wav",
       },
       {
         name: "Bastos (Vientos)",
-        url: "url9",
+        url: "https://tesisv3.s3.amazonaws.com/AKG-C414/bastos-005.wav",
       },
       {
         name: "Bombo andino (Percusión)",
-        url: "url10",
+        url: "https://tesisv3.s3.amazonaws.com/AKG-C414/bombo-andino-c414.wav",
       },
       {
         name: "Cajón peruano (Percusión)",
-        url: "url11",
+        url: "https://tesisv3.s3.amazonaws.com/AKG-C414/cajonfla-005.wav",
       },
       {
         name: "Guacharaca (Percusión)",
-        url: "url12",
+        url: "https://tesisv3.s3.amazonaws.com/AKG-C414/guacharaca-005.wav",
       },
       {
         name: "Jam Block (Percusión)",
-        url: "url13",
+        url: "https://tesisv3.s3.amazonaws.com/AKG-C414/jamblock-005.wav",
       },
       {
         name: "Semillas (Percusión)",
-        url: "url14",
+        url: "https://tesisv3.s3.amazonaws.com/AKG-C414/semillas-005.wav",
       },
       {
         name: "Pista 1",
@@ -633,59 +633,59 @@ export const dataMic = [
     audios: [
       {
         name: "Guitarra acústica (Cuerdas)",
-        url: "url1",
+        url: "https://tesisv3.s3.amazonaws.com/MXL2010/guitarra-009.wav",
       },
       {
         name: "Ronroco (Cuerdas)",
-        url: "url2",
+        url: "https://tesisv3.s3.amazonaws.com/MXL2010/ronroco-009.wav",
       },
       {
         name: "Charango (Cuerdas)",
-        url: "url3",
+        url: "https://tesisv3.s3.amazonaws.com/MXL2010/charango-009.wav",
       },
       {
         name: "Chulis (Vientos)",
-        url: "url4",
+        url: "https://tesisv3.s3.amazonaws.com/MXL2010/chulis-009.wav",
       },
       {
         name: "Maltas (Vientos)",
-        url: "url5",
+        url: "https://tesisv3.s3.amazonaws.com/MXL2010/malta-009.wav",
       },
       {
         name: "Quena (Vientos)",
-        url: "url6",
+        url: "https://tesisv3.s3.amazonaws.com/MXL2010/quena-009.wav",
       },
       {
         name: "Quenacho (Vientos)",
-        url: "url7",
+        url: "https://tesisv3.s3.amazonaws.com/MXL2010/quenacho-009.wav",
       },
       {
         name: "Toyos (Vientos)",
-        url: "url8",
+        url: "https://tesisv3.s3.amazonaws.com/MXL2010/toyo-009.wav",
       },
       {
         name: "Bastos (Vientos)",
-        url: "url9",
+        url: "https://tesisv3.s3.amazonaws.com/MXL2010/bastos-009.wav",
       },
       {
         name: "Bombo andino (Percusión)",
-        url: "url10",
+        url: "https://tesisv3.s3.amazonaws.com/MXL2010/bombo-andino-2010.wav",
       },
       {
         name: "Cajón peruano (Percusión)",
-        url: "url11",
+        url: "https://tesisv3.s3.amazonaws.com/MXL2010/cajonfla-009.wav",
       },
       {
         name: "Guacharaca (Percusión)",
-        url: "url12",
+        url: "https://tesisv3.s3.amazonaws.com/MXL2010/guacharaca-009.wav",
       },
       {
         name: "Jam Block (Percusión)",
-        url: "url13",
+        url: "https://tesisv3.s3.amazonaws.com/MXL2010/jamblock-009.wav",
       },
       {
         name: "Semillas (Percusión)",
-        url: "url14",
+        url: "https://tesisv3.s3.amazonaws.com/MXL2010/semillas-009.wav",
       },
       {
         name: "Pista 1",
@@ -711,59 +711,59 @@ export const dataMic = [
     audios: [
       {
         name: "Guitarra acústica (Cuerdas)",
-        url: "url1",
+        url: "https://tesisv3.s3.amazonaws.com/CV4/guitarra-008.wav",
       },
       {
         name: "Ronroco (Cuerdas)",
-        url: "url2",
+        url: "https://tesisv3.s3.amazonaws.com/CV4/ronroco-008.wav",
       },
       {
         name: "Charango (Cuerdas)",
-        url: "url3",
+        url: "https://tesisv3.s3.amazonaws.com/CV4/charango-008.wav",
       },
       {
         name: "Chulis (Vientos)",
-        url: "url4",
+        url: "https://tesisv3.s3.amazonaws.com/CV4/chulis-008.wav",
       },
       {
         name: "Maltas (Vientos)",
-        url: "url5",
+        url: "https://tesisv3.s3.amazonaws.com/CV4/malta-008.wav",
       },
       {
         name: "Quena (Vientos)",
-        url: "url6",
+        url: "https://tesisv3.s3.amazonaws.com/CV4/quena-008.wav",
       },
       {
         name: "Quenacho (Vientos)",
-        url: "url7",
+        url: "https://tesisv3.s3.amazonaws.com/CV4/quenacho-008.wav",
       },
       {
         name: "Toyos (Vientos)",
-        url: "url8",
+        url: "https://tesisv3.s3.amazonaws.com/CV4/toyo-008.wav",
       },
       {
         name: "Bastos (Vientos)",
-        url: "url9",
+        url: "https://tesisv3.s3.amazonaws.com/CV4/bastos-008.wav",
       },
       {
         name: "Bombo andino (Percusión)",
-        url: "url10",
+        url: "https://tesisv3.s3.amazonaws.com/CV4/bombo-andino-cv4.wav",
       },
       {
         name: "Cajón peruano (Percusión)",
-        url: "url11",
+        url: "https://tesisv3.s3.amazonaws.com/CV4/cajonfla-008.wav",
       },
       {
         name: "Guacharaca (Percusión)",
-        url: "url12",
+        url: "https://tesisv3.s3.amazonaws.com/CV4/guacharaca-008.wav",
       },
       {
         name: "Jam Block (Percusión)",
-        url: "url13",
+        url: "https://tesisv3.s3.amazonaws.com/CV4/jamblock-008.wav",
       },
       {
         name: "Semillas (Percusión)",
-        url: "url14",
+        url: "https://tesisv3.s3.amazonaws.com/CV4/semillas-008.wav",
       },
       {
         name: "Pista 1",
@@ -789,59 +789,59 @@ export const dataMic = [
     audios: [
       {
         name: "Guitarra acústica (Cuerdas)",
-        url: "url1",
+        url: "https://tesisv3.s3.amazonaws.com/u87i/guitarra-010.wav",
       },
       {
         name: "Ronroco (Cuerdas)",
-        url: "url2",
+        url: "https://tesisv3.s3.amazonaws.com/u87i/ronroco-010.wav",
       },
       {
         name: "Charango (Cuerdas)",
-        url: "url3",
+        url: "https://tesisv3.s3.amazonaws.com/u87i/charango-010.wav",
       },
       {
         name: "Chulis (Vientos)",
-        url: "url4",
+        url: "https://tesisv3.s3.amazonaws.com/u87i/chulis-010.wav",
       },
       {
         name: "Maltas (Vientos)",
-        url: "url5",
+        url: "https://tesisv3.s3.amazonaws.com/u87i/malta-010.wav",
       },
       {
         name: "Quena (Vientos)",
-        url: "url6",
+        url: "https://tesisv3.s3.amazonaws.com/u87i/quena-010.wav",
       },
       {
         name: "Quenacho (Vientos)",
-        url: "url7",
+        url: "https://tesisv3.s3.amazonaws.com/u87i/quenacho-010.wav",
       },
       {
         name: "Toyos (Vientos)",
-        url: "url8",
+        url: "https://tesisv3.s3.amazonaws.com/u87i/toyo-010.wav",
       },
       {
         name: "Bastos (Vientos)",
-        url: "url9",
+        url: "https://tesisv3.s3.amazonaws.com/u87i/bastos-010.wav",
       },
       {
         name: "Bombo andino (Percusión)",
-        url: "url10",
+        url: "https://tesisv3.s3.amazonaws.com/u87i/bombo-andino-u87i.wav",
       },
       {
         name: "Cajón peruano (Percusión)",
-        url: "url11",
+        url: "https://tesisv3.s3.amazonaws.com/u87i/cajonfla-010.wav",
       },
       {
         name: "Guacharaca (Percusión)",
-        url: "url12",
+        url: "https://tesisv3.s3.amazonaws.com/u87i/guacharaca-010.wav",
       },
       {
         name: "Jam Block (Percusión)",
-        url: "url13",
+        url: "https://tesisv3.s3.amazonaws.com/u87i/jamblock-010.wav",
       },
       {
         name: "Semillas (Percusión)",
-        url: "url14",
+        url: "https://tesisv3.s3.amazonaws.com/u87i/semillas-010.wav",
       },
       {
         name: "Pista 1",
@@ -867,59 +867,59 @@ export const dataMic = [
     audios: [
       {
         name: "Guitarra acústica (Cuerdas)",
-        url: "url1",
+        url: "https://tesisv3.s3.amazonaws.com/SP-B3/guitarra-012.wav",
       },
       {
         name: "Ronroco (Cuerdas)",
-        url: "url2",
+        url: "https://tesisv3.s3.amazonaws.com/SP-B3/ronroco-012.wav",
       },
       {
         name: "Charango (Cuerdas)",
-        url: "url3",
+        url: "https://tesisv3.s3.amazonaws.com/SP-B3/charango-012.wav",
       },
       {
         name: "Chulis (Vientos)",
-        url: "url4",
+        url: "https://tesisv3.s3.amazonaws.com/SP-B3/chulis-012.wav",
       },
       {
         name: "Maltas (Vientos)",
-        url: "url5",
+        url: "https://tesisv3.s3.amazonaws.com/SP-B3/malta-012.wav",
       },
       {
         name: "Quena (Vientos)",
-        url: "url6",
+        url: "https://tesisv3.s3.amazonaws.com/SP-B3/quena-012.wav",
       },
       {
         name: "Quenacho (Vientos)",
-        url: "url7",
+        url: "https://tesisv3.s3.amazonaws.com/SP-B3/quenacho-012.wav",
       },
       {
         name: "Toyos (Vientos)",
-        url: "url8",
+        url: "https://tesisv3.s3.amazonaws.com/SP-B3/toyo-012.wav",
       },
       {
         name: "Bastos (Vientos)",
-        url: "url9",
+        url: "https://tesisv3.s3.amazonaws.com/SP-B3/bastos-012.wav",
       },
       {
         name: "Bombo andino (Percusión)",
-        url: "url10",
+        url: "https://tesisv3.s3.amazonaws.com/SP-B3/bombo-andino-b3.wav",
       },
       {
         name: "Cajón peruano (Percusión)",
-        url: "url11",
+        url: "https://tesisv3.s3.amazonaws.com/SP-B3/cajonfla-012.wav",
       },
       {
         name: "Guacharaca (Percusión)",
-        url: "url12",
+        url: "https://tesisv3.s3.amazonaws.com/SP-B3/guacharaca-012.wav",
       },
       {
         name: "Jam Block (Percusión)",
-        url: "url13",
+        url: "https://tesisv3.s3.amazonaws.com/SP-B3/jamblock-012.wav",
       },
       {
         name: "Semillas (Percusión)",
-        url: "url14",
+        url: "https://tesisv3.s3.amazonaws.com/SP-B3/semillas-012.wav",
       },
       {
         name: "Pista 1",
