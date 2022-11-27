@@ -13,9 +13,14 @@ const AppContextProvider = (props) => {
   const [dropdownItem2, setDropdownItem2] = useState(0);
   const [dropdownItem3, setDropdownItem3] = useState(0);
 
+
   const [option1, setOption1] = useState("");
   const [option2, setOption2] = useState("");
   const [option3, setOption3] = useState("");
+  const [dropdownSong, setDropdownSong] = useState("")
+  const [data,setData] = useState("")
+
+
   
   const contextValues = {
     dropdownItem1, setDropdownItem1,
@@ -23,8 +28,9 @@ const AppContextProvider = (props) => {
     dropdownItem3, setDropdownItem3,
     option1, setOption1,
     option2, setOption2,
-    option3, setOption3
-
+    option3, setOption3,
+    dropdownSong, setDropdownSong,
+    data,setData
   };
 
   return (
