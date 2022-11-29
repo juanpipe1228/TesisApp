@@ -3,8 +3,6 @@ import AudioPlayer from "../../atoms/AudioPlayer/AudioPlayer"
 import { useItemContext } from "../../../context/appContext"
 import { dataMic } from "../../../data/micsData"
 
-
-
 export default function AudioMicThree() {
   const {dropdownItem3, dropdownSong} = useItemContext()
   const [data,setData] = useState(dataMic)
@@ -21,7 +19,7 @@ export default function AudioMicThree() {
     <div className="pt-4">
     {
         dropdownItem3 ?<>
-           {dropdownSong ? <div style={{display:'flex',alignItems:'center', justifyContent:'center'}}>  <AudioPlayer src={data[0]?.url}/> </div>: <span style={{color:'#ffa31a'}}>{`Seleccione una pista para el micrófono: ${dataMic[dropdownItem3-1].Nombre}`}</span>}
+         {dropdownSong ? <><div style={{display:'flex',alignItems:'center', justifyContent:'center'}}><span style={{color:'#ffa31a'}}>{`Micrófono: ${dataMic[dropdownItem3-1].Nombre}`}</span></div> <div style={{display:'flex',alignItems:'center', justifyContent:'center'}}><AudioPlayer src={data[0]?.url}/></div> </>: <span style={{color:'#ffa31a'}}>{`Seleccione una pista para el micrófono: ${dataMic[dropdownItem3-1].Nombre}`}</span>}
         </> : <span style={{color:'#ffa31a'}}>Para continuar, seleccione el micrófono 3</span>
     }
        
