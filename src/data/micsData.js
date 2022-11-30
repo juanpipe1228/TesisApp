@@ -3,7 +3,7 @@ export const dataMic = [
     id: 1,
     Nombre: "Shure PGA81",
     Sensibilidad: "-52.041 dBV",
-    MaxSPL: "-41.041 dB",
+    MaximoNivelElectrico: "-41.041 dB",
     SelfNoise: "34.3 mV",
     PatronPolar: "Cardioide",
     audios: [
@@ -81,7 +81,7 @@ export const dataMic = [
     id: 2,
     Nombre: "Shure Beta87A",
     Sensibilidad: "-55.391 dBV",
-    MaxSPL: "-44.391 dB",
+    MaximoNivelElectrico: "-44.391 dB",
     SelfNoise: "34.9 mV",
     PatronPolar: "Cardioide",
     audios: [
@@ -159,7 +159,7 @@ export const dataMic = [
     id: 3,
     Nombre: "Audio-Technica 4033A",
     Sensibilidad: "-35.189 dBV",
-    MaxSPL: "-24.189 dB",
+    MaximoNivelElectrico: "-24.189 dB",
     SelfNoise: "4.3 mV",
     PatronPolar: "Cardioide",
     audios: [
@@ -237,7 +237,7 @@ export const dataMic = [
     id: 4,
     Nombre: "Audio-Technica 4050",
     Sensibilidad: "-37.202 dBV",
-    MaxSPL: "-26.202 dB",
+    MaximoNivelElectrico: "-26.202 dB",
     SelfNoise: "6.1 mV",
     PatronPolar: "Cardioide",
     audios: [
@@ -315,7 +315,7 @@ export const dataMic = [
     id: 5,
     Nombre: "Audio-Technica 4060",
     Sensibilidad: "-34.657 dBV",
-    MaxSPL: "-23.656 dB",
+    MaximoNivelElectrico: "-23.656 dB",
     SelfNoise: "14.1 mV",
     PatronPolar: "Cardioide",
     audios: [
@@ -393,7 +393,7 @@ export const dataMic = [
     id: 6,
     Nombre: "Audio-Technica AE3000",
     Sensibilidad: "-42.158 dBV",
-    MaxSPL: "-31.158 dB",
+    MaximoNivelElectrico: "-31.158 dB",
     SelfNoise: "10.1 mV",
     PatronPolar: "Cardioide",
     audios: [
@@ -471,7 +471,7 @@ export const dataMic = [
     id: 7,
     Nombre: "AKG C414",
     Sensibilidad: "-37.393 dBV",
-    MaxSPL: "-26.393 dB",
+    MaximoNivelElectrico: "-26.393 dB",
     SelfNoise: "21.5 mV",
     PatronPolar: "Cardioide",
     audios: [
@@ -549,7 +549,7 @@ export const dataMic = [
     id: 8,
     Nombre: "AKG P420",
     Sensibilidad: "-32.217 dBV",
-    MaxSPL: "-21.216 dB",
+    MaximoNivelElectrico: "-21.216 dB",
     SelfNoise: "16.7 mV",
     PatronPolar: "Cardioide",
     audios: [
@@ -627,7 +627,7 @@ export const dataMic = [
     id: 9,
     Nombre: "MXL 2010",
     Sensibilidad: "-37.993 dBV",
-    MaxSPL: "-26.993 dB",
+    MaximoNivelElectrico: "-26.993 dB",
     SelfNoise: "12.4 mV",
     PatronPolar: "Cardioide",
     audios: [
@@ -705,7 +705,7 @@ export const dataMic = [
     id: 10,
     Nombre: "Miktek CV4",
     Sensibilidad: "-37.655 dBV",
-    MaxSPL: "-26.654 dB",
+    MaximoNivelElectrico: "-26.654 dB",
     SelfNoise: "2.3 mV",
     PatronPolar: "Cardioide",
     audios: [
@@ -783,7 +783,7 @@ export const dataMic = [
     id: 11,
     Nombre: "Neumann U87i",
     Sensibilidad: "-33.473 dBV",
-    MaxSPL: "-20.079 dB",
+    MaximoNivelElectrico: "-20.079 dB",
     SelfNoise: "6.3 mV",
     PatronPolar: "Cardioide",
     audios: [
@@ -861,7 +861,7 @@ export const dataMic = [
     id: 12,
     Nombre: "Studio Projets B3",
     Sensibilidad: "-38.202 dBV",
-    MaxSPL: "-27.202 dB",
+    MaximoNivelElectrico: "-27.202 dB",
     SelfNoise: "4.6 mV",
     PatronPolar: "Cardioide",
     audios: [

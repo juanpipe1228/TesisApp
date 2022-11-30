@@ -18,7 +18,7 @@ const style = {
 const itemsList = [
   "Nombre" ,
   "Sensibilidad",
-  "MaxSPL",
+  "MaximoNivelElectrico",
   "SelfNoise",
   "PatronPolar",
 ]
