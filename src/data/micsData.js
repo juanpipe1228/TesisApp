@@ -859,7 +859,7 @@ export const dataMic = [
   },
   {
     id: 12,
-    Nombre: "Studio Projets B3",
+    Nombre: "Studio Projet B3",
     Sensibilidad: "-38.202 dBV",
     MaximoNivelElectrico: "-27.202 dB",
     SelfNoise: "4.6 mV",

@@ -19,7 +19,7 @@ const itemsList = [
   "Nombre" ,
   "Sensibilidad",
   "MaximoNivelElectrico",
-  "SelfNoise",
+  // "SelfNoise",
   "PatronPolar",
 ]
 
@@ -57,7 +57,7 @@ export default function MicInfo(props) {
         />
 
       </div>
-      <div className='my-5'>
+      <div className='mt-5 my-4'>
         <Card>
           <div className='p-3'>
               {itemsList.map((key)=>{

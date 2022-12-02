@@ -2,6 +2,10 @@
 import { dropDownOptions } from '../../../data/dropdownData';
 import { useItemContext } from '../../../context/appContext';
 import MicInfo from "../../molecules/MicInfo/MicInfo"
+import PolarGraph from '../../molecules/PolarGraph/PolarGraph';
+import PolarGraph2 from '../../molecules/PolarGraph/PolarGraph2';
+import PolarGraph3 from '../../molecules/PolarGraph/PolarGraph3';
+
 export default function MicGrid() {
   const {
     dropdownItem1, setDropdownItem1, 
@@ -29,7 +33,7 @@ export default function MicGrid() {
   }
   return (
     <div>
-        <div className="row">
+        <div className="row mb-4">
             <div className={grid}>
                 <MicInfo
                     dropDownOptions = { dropDownOptions }
@@ -37,6 +41,7 @@ export default function MicGrid() {
                     handleChange = {handleChange1}
                     dropdownItem1 = {dropdownItem1}
                 />
+                <PolarGraph/>
             </div>
             <div className={grid}>
                 <MicInfo
@@ -45,6 +50,7 @@ export default function MicGrid() {
                     handleChange = {handleChange2}
                     dropdownItem2={dropdownItem2}
                 />
+                <PolarGraph2/>
             </div>
             <div className={grid}>
                 <MicInfo
@@ -53,6 +59,7 @@ export default function MicGrid() {
                     handleChange = {handleChange3}
                     dropdownItem3 = {dropdownItem3}
                 />
+                <PolarGraph3 />
             </div>
         </div>
     </div>
