@@ -54,7 +54,7 @@ const PolarGraph = () => {
     }, [dropdownItem1]);
 
     const finalData = {
-        labels: [0, 15, 30, 45, 60, 75, 90, 105, 120, 135, 150, 165, 180, 195, 210, 225, 240, 255, 270, 285, 300, 315, 330, 345],
+        labels: ['0°', '15°', '30°', '45°', '60°', '75°', '90°', '105°', '120°', '135°', '150°', '165°', '180°', '195°', '210°', '225°', '240°', '255°', '270°', '285°', '300°', '315°', '330°', '345°'],
         datasets: dataLine,
       };
     return (
@@ -69,7 +69,7 @@ const PolarGraph = () => {
                         plugins: {
                             title: {
                                 display: true,
-                                text: 'Patron Polar',
+                                text: 'Patrón Polar',
                                 font:{
                                     size:18
                                 },

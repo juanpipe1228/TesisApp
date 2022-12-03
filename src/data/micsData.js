@@ -6,6 +6,7 @@ export const dataMic = [
     MaximoNivelElectrico: "-41.041 dB",
     SelfNoise: "34.3 mV",
     PatronPolar: "Cardioide",
+    Image: "https://tesisv3.s3.amazonaws.com/images/5.png",
     audios: [
       {
         name: "Guitarra acústica (Cuerdas)",
@@ -84,6 +85,7 @@ export const dataMic = [
     MaximoNivelElectrico: "-44.391 dB",
     SelfNoise: "34.9 mV",
     PatronPolar: "Cardioide",
+    Image: "https://tesisv3.s3.amazonaws.com/images/6.png",
     audios: [
       {
         name: "Guitarra acústica (Cuerdas)",
@@ -162,6 +164,7 @@ export const dataMic = [
     MaximoNivelElectrico: "-24.189 dB",
     SelfNoise: "4.3 mV",
     PatronPolar: "Cardioide",
+    Image: "https://tesisv3.s3.amazonaws.com/images/11.png",
     audios: [
       {
         name: "Guitarra acústica (Cuerdas)",
@@ -240,6 +243,7 @@ export const dataMic = [
     MaximoNivelElectrico: "-26.202 dB",
     SelfNoise: "6.1 mV",
     PatronPolar: "Cardioide",
+    Image: "https://tesisv3.s3.amazonaws.com/images/10.png",
     audios: [
       {
         name: "Guitarra acústica (Cuerdas)",
@@ -318,6 +322,7 @@ export const dataMic = [
     MaximoNivelElectrico: "-23.656 dB",
     SelfNoise: "14.1 mV",
     PatronPolar: "Cardioide",
+    Image: "https://tesisv3.s3.amazonaws.com/images/4.png",
     audios: [
       {
         name: "Guitarra acústica (Cuerdas)",
@@ -396,6 +401,7 @@ export const dataMic = [
     MaximoNivelElectrico: "-31.158 dB",
     SelfNoise: "10.1 mV",
     PatronPolar: "Cardioide",
+    Image: "https://tesisv3.s3.amazonaws.com/images/7.png",
     audios: [
       {
         name: "Guitarra acústica (Cuerdas)",
@@ -474,6 +480,7 @@ export const dataMic = [
     MaximoNivelElectrico: "-26.393 dB",
     SelfNoise: "21.5 mV",
     PatronPolar: "Cardioide",
+    Image: "https://tesisv3.s3.amazonaws.com/images/C414.png",
     audios: [
       {
         name: "Guitarra acústica (Cuerdas)",
@@ -552,6 +559,7 @@ export const dataMic = [
     MaximoNivelElectrico: "-21.216 dB",
     SelfNoise: "16.7 mV",
     PatronPolar: "Cardioide",
+    Image: "https://tesisv3.s3.amazonaws.com/images/9.png",
     audios: [
       {
         name: "Guitarra acústica (Cuerdas)",
@@ -630,6 +638,7 @@ export const dataMic = [
     MaximoNivelElectrico: "-26.993 dB",
     SelfNoise: "12.4 mV",
     PatronPolar: "Cardioide",
+    Image: "https://tesisv3.s3.amazonaws.com/images/8.png",
     audios: [
       {
         name: "Guitarra acústica (Cuerdas)",
@@ -708,6 +717,7 @@ export const dataMic = [
     MaximoNivelElectrico: "-26.654 dB",
     SelfNoise: "2.3 mV",
     PatronPolar: "Cardioide",
+    Image: "https://tesisv3.s3.amazonaws.com/images/2.png",
     audios: [
       {
         name: "Guitarra acústica (Cuerdas)",
@@ -786,6 +796,7 @@ export const dataMic = [
     MaximoNivelElectrico: "-20.079 dB",
     SelfNoise: "6.3 mV",
     PatronPolar: "Cardioide",
+    Image: "https://tesisv3.s3.amazonaws.com/images/3.png",
     audios: [
       {
         name: "Guitarra acústica (Cuerdas)",
@@ -864,6 +875,7 @@ export const dataMic = [
     MaximoNivelElectrico: "-27.202 dB",
     SelfNoise: "4.6 mV",
     PatronPolar: "Cardioide",
+    Image: "https://tesisv3.s3.amazonaws.com/images/1.png",
     audios: [
       {
         name: "Guitarra acústica (Cuerdas)",

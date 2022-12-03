@@ -42,6 +42,7 @@
 .css-1mcnwpj-MuiList-root {
     padding-top: 0 !important;
     padding-bottom: 0 !important;
+    max-width: 500px !important;
 }
 
 .css-1ovif3x-MuiSkeleton-root {
@@ -62,4 +63,8 @@
 
 .MuiTypography-root{
     color:#292929 !important
+}
+
+.css-1umppoh{
+    padding: 0;
 }
