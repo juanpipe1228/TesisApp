@@ -12,7 +12,7 @@ const Header = () => {
             alt="usb"
           ></img>
           <a href="/" className="navbar-logo">
-            Microphone test
+            Microphone Test
           </a>
           <ul className="nav-menu">
             <li className="nav-item">

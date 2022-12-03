@@ -58,13 +58,13 @@ export default function MicInfo(props) {
         />
 
       </div>
-      <div className='mt-5 my-4'>
+      <div className='mt-4 my-4'>
         <div className='mb-3' style={{display:'flex',alignItems:'center', justifyContent:'center'}}>
         { 
-                    dropdownItem1 ? dropdownItem1 !== -1 ? <Image src={`${dataMic[dropdownItem1-1].Image}`} alt={`${dataMic[dropdownItem1-1].Nombre}`} style={{height:'160px',width:'auto'}}/>: <Skeleton variant="image" width={40} /> :
-                    dropdownItem2 ? dropdownItem2 !== -1 ? <Image src={`${dataMic[dropdownItem2-1].Image}`} alt={`${dataMic[dropdownItem2-1].Nombre}`} style={{height:'160px',width:'auto'}}/> :  <Skeleton variant="image" width={40} /> :
-                    dropdownItem3 ? dropdownItem3 !== -1 ? <Image src={`${dataMic[dropdownItem3-1].Image}`} alt={`${dataMic[dropdownItem3-1].Nombre}`} style={{height:'160px',width:'auto'}}/> :  <Skeleton variant="image" width={40} /> :
-                    <Skeleton variant="image" sx={{ fontSize: '1rem' }} />
+                    dropdownItem1 ? dropdownItem1 !== -1 ? <Image src={`${dataMic[dropdownItem1-1].Image}`} alt={`${dataMic[dropdownItem1-1].Nombre}`} style={{height:'160px',width:'auto'}}/>: <Skeleton variant="circular" height={40} /> :
+                    dropdownItem2 ? dropdownItem2 !== -1 ? <Image src={`${dataMic[dropdownItem2-1].Image}`} alt={`${dataMic[dropdownItem2-1].Nombre}`} style={{height:'160px',width:'auto'}}/> :  <Skeleton variant="circular" width={40} /> :
+                    dropdownItem3 ? dropdownItem3 !== -1 ? <Image src={`${dataMic[dropdownItem3-1].Image}`} alt={`${dataMic[dropdownItem3-1].Nombre}`} style={{height:'160px',width:'auto'}}/> :  <Skeleton variant="circular" width={40} /> :
+                    <Skeleton variant="circular" height={160} width={160} />
         }
 
         </div>
