@@ -3,9 +3,9 @@ export const dataMic = [
     id: 1,
     Nombre: "Shure PGA81",
     Sensibilidad: "-52.041 dBV",
-    MaximoNivelElectrico: "-41.041 dBV",
+    MáximoNivelEléctrico: "-41.041 dBV",
     SelfNoise: "34.3 mV",
-    PatronPolar: "Cardioide",
+    PatrónPolar: "Cardioide",
     Image: "https://tesisv3.s3.amazonaws.com/images/5.png",
     audios: [
       {
@@ -82,9 +82,9 @@ export const dataMic = [
     id: 2,
     Nombre: "Shure Beta87A",
     Sensibilidad: "-55.391 dBV",
-    MaximoNivelElectrico: "-44.391 dBV",
+    MáximoNivelEléctrico: "-44.391 dBV",
     SelfNoise: "34.9 mV",
-    PatronPolar: "Cardioide",
+    PatrónPolar: "Supercardioide",
     Image: "https://tesisv3.s3.amazonaws.com/images/6.png",
     audios: [
       {
@@ -161,9 +161,9 @@ export const dataMic = [
     id: 3,
     Nombre: "Audio-Technica 4033A",
     Sensibilidad: "-35.189 dBV",
-    MaximoNivelElectrico: "-24.189 dBV",
+    MáximoNivelEléctrico: "-24.189 dBV",
     SelfNoise: "4.3 mV",
-    PatronPolar: "Cardioide",
+    PatrónPolar: "Cardioide",
     Image: "https://tesisv3.s3.amazonaws.com/images/11.png",
     audios: [
       {
@@ -240,9 +240,9 @@ export const dataMic = [
     id: 4,
     Nombre: "Audio-Technica 4050",
     Sensibilidad: "-37.202 dBV",
-    MaximoNivelElectrico: "-26.202 dBV",
+    MáximoNivelEléctrico: "-26.202 dBV",
     SelfNoise: "6.1 mV",
-    PatronPolar: "Cardioide",
+    PatrónPolar: "Cardioide/ Omnidireccional/ Figura 8",
     Image: "https://tesisv3.s3.amazonaws.com/images/10.png",
     audios: [
       {
@@ -319,9 +319,9 @@ export const dataMic = [
     id: 5,
     Nombre: "Audio-Technica 4060",
     Sensibilidad: "-34.657 dBV",
-    MaximoNivelElectrico: "-23.656 dBV",
+    MáximoNivelEléctrico: "-23.656 dBV",
     SelfNoise: "14.1 mV",
-    PatronPolar: "Cardioide",
+    PatrónPolar: "Cardioide",
     Image: "https://tesisv3.s3.amazonaws.com/images/4.png",
     audios: [
       {
@@ -398,9 +398,9 @@ export const dataMic = [
     id: 6,
     Nombre: "Audio-Technica AE3000",
     Sensibilidad: "-42.158 dBV",
-    MaximoNivelElectrico: "-31.158 dBV",
+    MáximoNivelEléctrico: "-31.158 dBV",
     SelfNoise: "10.1 mV",
-    PatronPolar: "Cardioide",
+    PatrónPolar: "Cardioide",
     Image: "https://tesisv3.s3.amazonaws.com/images/7.png",
     audios: [
       {
@@ -477,9 +477,10 @@ export const dataMic = [
     id: 7,
     Nombre: "AKG C414",
     Sensibilidad: "-37.393 dBV",
-    MaximoNivelElectrico: "-26.393 dBV",
+    MáximoNivelEléctrico: "-26.393 dBV",
     SelfNoise: "21.5 mV",
-    PatronPolar: "Cardioide",
+    PatrónPolar:
+      "Cardioide/ Omnidireccional/ Figura 8/ Hipercardioide/ Cardioide amplio",
     Image: "https://tesisv3.s3.amazonaws.com/images/C414.png",
     audios: [
       {
@@ -556,9 +557,9 @@ export const dataMic = [
     id: 8,
     Nombre: "AKG P420",
     Sensibilidad: "-32.217 dBV",
-    MaximoNivelElectrico: "-21.216 dBV",
+    MáximoNivelEléctrico: "-21.216 dBV",
     SelfNoise: "16.7 mV",
-    PatronPolar: "Cardioide",
+    PatrónPolar: "Cardioide/ Figura 8/ Omnidireccional",
     Image: "https://tesisv3.s3.amazonaws.com/images/9.png",
     audios: [
       {
@@ -635,9 +636,9 @@ export const dataMic = [
     id: 9,
     Nombre: "MXL 2010",
     Sensibilidad: "-37.993 dBV",
-    MaximoNivelElectrico: "-26.993 dBV",
+    MáximoNivelEléctrico: "-26.993 dBV",
     SelfNoise: "12.4 mV",
-    PatronPolar: "Cardioide",
+    PatrónPolar: "Cardioide/ Omnidireccional/ Figura 8",
     Image: "https://tesisv3.s3.amazonaws.com/images/8.png",
     audios: [
       {
@@ -714,9 +715,10 @@ export const dataMic = [
     id: 10,
     Nombre: "Miktek CV4",
     Sensibilidad: "-37.655 dBV",
-    MaximoNivelElectrico: "-26.654 dBV",
+    MáximoNivelEléctrico: "-26.654 dBV",
     SelfNoise: "2.3 mV",
-    PatronPolar: "Cardioide",
+    PatrónPolar:
+      "Cardioide/ Omnidireccional/ Hiper cardioide/ Figura 8/ Variaciones de cardioide",
     Image: "https://tesisv3.s3.amazonaws.com/images/2.png",
     audios: [
       {
@@ -793,9 +795,9 @@ export const dataMic = [
     id: 11,
     Nombre: "Neumann U87i",
     Sensibilidad: "-33.473 dBV",
-    MaximoNivelElectrico: "-20.079 dBV",
+    MáximoNivelEléctrico: "-20.079 dBV",
     SelfNoise: "6.3 mV",
-    PatronPolar: "Cardioide",
+    PatrónPolar: "Cardioide/ Omnidireccional/ Figura 8",
     Image: "https://tesisv3.s3.amazonaws.com/images/3.png",
     audios: [
       {
@@ -872,9 +874,9 @@ export const dataMic = [
     id: 12,
     Nombre: "Studio Projet B3",
     Sensibilidad: "-38.202 dBV",
-    MaximoNivelElectrico: "-27.202 dBV",
+    MáximoNivelEléctrico: "-27.202 dBV",
     SelfNoise: "4.6 mV",
-    PatronPolar: "Cardioide",
+    PatrónPolar: "Cardioide/ Omnidireccional/ Figura 8",
     Image: "https://tesisv3.s3.amazonaws.com/images/1.png",
     audios: [
       {

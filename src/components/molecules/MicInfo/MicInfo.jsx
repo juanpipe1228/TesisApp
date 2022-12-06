@@ -19,9 +19,9 @@ const style = {
 const itemsList = [
   // "Nombre" ,
   "Sensibilidad",
-  "MaximoNivelElectrico",
+  "MáximoNivelEléctrico",
   // "SelfNoise",
-  // "PatronPolar",
+  "PatrónPolar",
 ]
 
 
@@ -76,9 +76,9 @@ export default function MicInfo(props) {
                   <ListItem button>
                   <div style={{width:'100%'}}>
                   { 
-                    dropdownItem1 ? dropdownItem1 !== -1 ? <ListItemText primary={`${key}: ${data[0]?.[key]}`} />: <Skeleton variant="text" width={40} /> :
-                    dropdownItem2 ? dropdownItem2 !== -1 ? <ListItemText primary={`${key}: ${data[0]?.[key]}`} />: <Skeleton variant="text" width={40} /> :
-                    dropdownItem3 ? dropdownItem3 !== -1 ? <ListItemText primary={`${key}: ${data[0]?.[key]}`} />: <Skeleton variant="text" width={40} /> :
+                    dropdownItem1 ? dropdownItem1 !== -1 ? <ListItemText primary={`${key.replace(/([a-z])([A-Z])/g, '$1 $2')}: ${data[0]?.[key]}`} />: <Skeleton variant="text" width={40} /> :
+                    dropdownItem2 ? dropdownItem2 !== -1 ? <ListItemText primary={`${key.replace(/([a-z])([A-Z])/g, '$1 $2')}: ${data[0]?.[key]}`} />: <Skeleton variant="text" width={40} /> :
+                    dropdownItem3 ? dropdownItem3 !== -1 ? <ListItemText primary={`${key.replace(/([a-z])([A-Z])/g, '$1 $2')}: ${data[0]?.[key]}`} />: <Skeleton variant="text" width={40} /> :
                     <Skeleton variant="text" sx={{ fontSize: '1rem' }} />
                   }
 

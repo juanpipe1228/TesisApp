@@ -69,7 +69,7 @@ const PolarGraph = () => {
                         plugins: {
                             title: {
                                 display: true,
-                                text: 'Patrón Polar',
+                                text: 'Patrón Polar Cardioide',
                                 font:{
                                     size:18
                                 },
