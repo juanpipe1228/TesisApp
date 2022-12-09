@@ -32,7 +32,8 @@ export default function DropdownComponent(props) {
           handleFilter(value);
         }}
         placeholder='Seleccione una de las opciones'
-        onClick={() => setClassActive(!classActive)}
+        onClick={() => {setClassActive(!classActive)
+        setSelectedItem('')}}
       ></input>
       <div className="option">
         {optionFiltered?.map((item) => {
