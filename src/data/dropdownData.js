@@ -10,5 +10,5 @@ export const dropDownOptions = [
   "MXL 2010",
   "Miktek CV4",
   "Neumann U87i",
-  "Studio Projet B3",
+  "Studio Project B3",
 ];
