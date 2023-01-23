@@ -18,8 +18,10 @@ export default function Footer() {
                   Ponce de la Universidad San Buenaventura Bogotá para optar al
                   título de Ingeniería de Sonido. Para conocer más sobre la
                   caracterización y medición de los microfonos de{" "}
-                  <a href="#">click sobre exte texto</a> para poder leer la
-                  tesis completa.
+                  <a href="https://tesisv3.s3.amazonaws.com/Tesis+JuanR_PabloP+Final.docx">
+                    click sobre exte texto
+                  </a>{" "}
+                  para poder leer la tesis completa.
                 </p>
               </div>
 
