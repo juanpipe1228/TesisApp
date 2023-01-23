@@ -20,11 +20,11 @@ const Header = () => {
                 Inicio
               </a>
             </li>
-            {/* <li className="nav-item">
+            <li className="nav-item">
               <a href="/info" className="nav-links">
                 Información
               </a>
-            </li> */}
+            </li>
           </ul>
         </div>
       </nav>

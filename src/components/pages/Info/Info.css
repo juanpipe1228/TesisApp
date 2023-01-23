@@ -1,0 +1,27 @@
+h2{
+    text-align: center;
+}
+h5{
+    text-align: center;
+}
+.maincontainer-info{
+    display: flex;
+    justify-content: center;
+}
+.container-info{
+    color:#fff;
+    text-align: center;
+    width: 70%;
+}
+
+.container-info p{
+    text-align: center;
+    padding:0px 60px;
+}
+
+.info-img{
+    text-align: center;
+    height: 400px;
+    padding-bottom: 60px;
+}
+

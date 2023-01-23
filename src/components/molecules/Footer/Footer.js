@@ -8,7 +8,7 @@ export default function Footer() {
     <>
       <div class="footer-clean">
         <footer>
-          <div class="container">
+          <div class="container-footer">
             <div class="row justify-content-center">
               <div class="col-sm-10 col-md-10">
                 <h2>Sobre nosotros</h2>
@@ -16,7 +16,10 @@ export default function Footer() {
                   Esta aplicación ha sido desarrollada con fines educativos para
                   el proyecto de grado de los estudiantes Juan Rincón y Pablo
                   Ponce de la Universidad San Buenaventura Bogotá para optar al
-                  título de Ingeniería de Sonido.
+                  título de Ingeniería de Sonido. Para conocer más sobre la
+                  caracterización y medición de los microfonos de{" "}
+                  <a href="#">click sobre exte texto</a> para poder leer la
+                  tesis completa.
                 </p>
               </div>
 

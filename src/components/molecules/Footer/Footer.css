@@ -5,11 +5,22 @@
     object-fit: cover;
   }
 .footer-clean {
-    padding:50px 0;
+    padding:40px 0;
     background-color:#1b1b1b;
     color:#fff;
   }
+
+  .footer-clean h2{
+    text-align: left;
+  }
   
+  .footer-clean p{
+    text-align: justify;
+  }
+
+  .copyright{
+    text-align: center !important;
+  }
 
   .footer-clean h3 {
     margin-top:0;
