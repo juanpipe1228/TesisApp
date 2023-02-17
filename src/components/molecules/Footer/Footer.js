@@ -17,9 +17,9 @@ export default function Footer() {
                   el proyecto de grado de los estudiantes Juan Rincón y Pablo
                   Ponce de la Universidad San Buenaventura Bogotá para optar al
                   título de Ingeniería de Sonido. Para conocer más sobre la
-                  caracterización y medición de los microfonos de{" "}
+                  caracterización y medición de los micrófonos de{" "}
                   <a href="https://tesisv3.s3.amazonaws.com/Tesis+JuanR_PabloP+Final.docx">
-                    click sobre exte texto
+                    click sobre este texto
                   </a>{" "}
                   para poder leer la tesis completa.
                 </p>
