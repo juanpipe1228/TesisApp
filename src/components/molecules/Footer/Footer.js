@@ -28,22 +28,21 @@ export default function Footer() {
               <div class="col-lg-3 item social">
                 <a href="https://github.com/juanpipe1228/TesisApp">
                   <img
+                    alt="Logo GitHub"
+                    target="_blank"
                     class="footer-img"
                     src="https://1000logos.net/wp-content/uploads/2018/08/GitHub-cat-logo.jpg"
                   ></img>
                 </a>
                 <a href="https://usbbog.edu.co/">
                   <img
+                    alt="Logo USB"
+                    target="_blank"
                     class="footer-img"
-                    src="https://pbs.twimg.com/profile_images/1161360904451231745/BS-PW5nG_400x400.jpg"
+                    src="https://tesisv3.s3.amazonaws.com/logo-usb.jpeg"
                   ></img>
                 </a>
-                {/* <a href="#">
-                  <i class="icon ion-social-snapchat"></i>
-                </a>
-                <a href="#">
-                  <i class="icon ion-social-instagram"></i>
-                </a> */}
+
                 <p class="copyright">
                   Mediciones y aplicación desarrollada por Juan Rincón & Pablo
                   Ponce-2023
