@@ -24,7 +24,7 @@ const songsInfo = [
   "Guacharaca (Percusión)",
   "Jam Block (Percusión)",
   "Semillas (Percusión)",
-  // "Pista 1",
+  "Pista 1",
   // "Pista 2",
   // "Pista 3",
 ]
