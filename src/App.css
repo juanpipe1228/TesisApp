@@ -68,3 +68,17 @@
 .css-1umppoh{
     padding: 0;
 }
+
+.button-alert{
+    background-color: transparent;
+    color:black;
+    border: 1px solid #000;
+    border-radius: 6px;
+}
+
+.button-alert:hover{
+    background-color: #ffa31a;
+    color:black;
+    border: 0px solid #000;
+    border-radius: 6px;
+}

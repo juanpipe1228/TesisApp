@@ -65,7 +65,7 @@ export const dataMic = [
         url: "https://tesisv3.s3.amazonaws.com/PG81/semillas-011.wav",
       },
       {
-        name: "Pista 1",
+        name: "Mix 1",
         url: "https://tesisv3.s3.amazonaws.com/pistas/pista1pga81.wav",
       },
       // {
@@ -144,7 +144,7 @@ export const dataMic = [
         url: "https://tesisv3.s3.amazonaws.com/Beta87A/semillas-007.wav",
       },
       {
-        name: "Pista 1",
+        name: "Mix 1",
         url: "https://tesisv3.s3.amazonaws.com/pistas/pista1beta87.wav",
       },
       // {
@@ -223,7 +223,7 @@ export const dataMic = [
         url: "https://tesisv3.s3.amazonaws.com/semillas-002.wav",
       },
       {
-        name: "Pista 1",
+        name: "Mix 1",
         url: "https://tesisv3.s3.amazonaws.com/pistas/pista1at4033.wav",
       },
       // {
@@ -302,7 +302,7 @@ export const dataMic = [
         url: "https://tesisv3.s3.amazonaws.com/AT4050/semillas-003.wav",
       },
       {
-        name: "Pista 1",
+        name: "Mix 1",
         url: "https://tesisv3.s3.amazonaws.com/pistas/pista1at4050.wav",
       },
       // {
@@ -381,7 +381,7 @@ export const dataMic = [
         url: "https://tesisv3.s3.amazonaws.com/AT4060/semillas-006.wav",
       },
       {
-        name: "Pista 1",
+        name: "Mix 1",
         url: "https://tesisv3.s3.amazonaws.com/pistas/pista1at4060.wav",
       },
       // {
@@ -460,7 +460,7 @@ export const dataMic = [
         url: "https://tesisv3.s3.amazonaws.com/AT-AE3000/semillas-004.wav",
       },
       {
-        name: "Pista 1",
+        name: "Mix 1",
         url: "https://tesisv3.s3.amazonaws.com/pistas/pista1ae3000.wav",
       },
       // {
@@ -540,7 +540,7 @@ export const dataMic = [
         url: "https://tesisv3.s3.amazonaws.com/AKG-C414/semillas-005.wav",
       },
       {
-        name: "Pista 1",
+        name: "Mix 1",
         url: "https://tesisv3.s3.amazonaws.com/pistas/pista1p420.wav",
       },
       // {
@@ -619,7 +619,7 @@ export const dataMic = [
         url: "https://tesisv3.s3.amazonaws.com/AKG-C414/semillas-005.wav",
       },
       {
-        name: "Pista 1",
+        name: "Mix 1",
         url: "https://tesisv3.s3.amazonaws.com/pistas/pista1p420.wav",
       },
       // {
@@ -698,7 +698,7 @@ export const dataMic = [
         url: "https://tesisv3.s3.amazonaws.com/MXL2010/semillas-009.wav",
       },
       {
-        name: "Pista 1",
+        name: "Mix 1",
         url: "https://tesisv3.s3.amazonaws.com/pistas/pista1mxl2010.wav",
       },
       // {
@@ -778,7 +778,7 @@ export const dataMic = [
         url: "https://tesisv3.s3.amazonaws.com/CV4/semillas-008.wav",
       },
       {
-        name: "Pista 1",
+        name: "Mix 1",
         url: "https://tesisv3.s3.amazonaws.com/pistas/pista1cv4.wav",
       },
       // {
@@ -857,7 +857,7 @@ export const dataMic = [
         url: "https://tesisv3.s3.amazonaws.com/u87i/semillas-010.wav",
       },
       {
-        name: "Pista 1",
+        name: "Mix 1",
         url: "https://tesisv3.s3.amazonaws.com/pistas/pista1u87i.wav",
       },
       // {
@@ -936,7 +936,7 @@ export const dataMic = [
         url: "https://tesisv3.s3.amazonaws.com/SP-B3/semillas-012.wav",
       },
       {
-        name: "Pista 1",
+        name: "Mix 1",
         url: "https://tesisv3.s3.amazonaws.com/pistas/pista1b3.wav",
       },
       // {
