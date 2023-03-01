@@ -24,7 +24,7 @@ const songsInfo = [
   "Guacharaca (Percusión)",
   "Jam Block (Percusión)",
   "Semillas (Percusión)",
-  "Pista 1",
+  "Mix 1",
   // "Pista 2",
   // "Pista 3",
 ]
@@ -54,6 +54,9 @@ export default function AudioInfo() {
                 {tabValue.value === 0 ?  <AudioMicOne/> : 
                 tabValue.value === 1 ?  <AudioMicTwo/> : 
                 <AudioMicThree/> }
+                <div className="mx-5">
+                  <small>NOTA: La calidad de la reproducción en los audios puede depender de la conexión a internet, si desea que esto no afecte, en las opciones del reproductor de audio se puede descargar. La calidad de los audios es 24bits/48kHz.</small>
+                </div>
             </div>
         </div>
     </div>
