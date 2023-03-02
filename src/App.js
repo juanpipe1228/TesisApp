@@ -8,7 +8,7 @@ function App() {
       <Header />
       <div className="Content">
         <BrowserRouter>
-          <Modal />
+          {/* <Modal /> */}
           <Routes>
             <Route path="/" element={<Home />} />
             <Route path="/info" element={<Info />} />
