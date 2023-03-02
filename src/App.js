@@ -7,8 +7,8 @@ function App() {
     <div className="App">
       <Header />
       <div className="Content">
-        <Modal />
         <BrowserRouter>
+          <Modal />
           <Routes>
             <Route path="/" element={<Home />} />
             <Route path="/info" element={<Info />} />
